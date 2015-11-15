@@ -2,3 +2,5 @@ This is the first commit
 This is first modified
 
 This is modified again
+
+to check staged differences
